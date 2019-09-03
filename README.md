@@ -24,6 +24,7 @@ To transfer ssr to your repository, you need the following files:
  - environments/*
  - app.browser.module.ts
  - app.server.module.ts
+ - soting
 
 ## References
 Official example in English: https://github.com/angular/universal-starter
